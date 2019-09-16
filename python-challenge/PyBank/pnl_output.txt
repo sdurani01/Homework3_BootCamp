@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------------
+Total Months: 86
+Total Profits and Losses: $ 38382578
+Average P/L Change: $ -2315
+Greatest Increase in P/L: Jan-2012 ($ 1926159 )
+Greatest Decrease in P/L: Aug-2013 ($ -2196167 )
